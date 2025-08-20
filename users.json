@@ -1,0 +1,25 @@
+[
+  {
+    "id": "f68e939b-3c3f-48b5-92fb-dd0eb2765500",
+    "email": "admin@gmail.com",
+    "phone": "01952678977",
+    "pwd": "$2b$10$gAgSulOyRecRNumJlGwJIuYFxrfXaMvDFt7mDASBH77Lp9VQ.fP86",
+    "createdAt": "2025-05-21T11:39:42.394Z",
+    "updatedAt": "2025-05-21T19:11:19.891Z"
+  },
+  {
+    "id": "ab2469b8-0caf-4bff-8297-e5488b4a8d18",
+    "email": "kamrunnaharsuchi39@gmail.com",
+    "phone": "01952678977",
+    "pwd": "$2b$10$bEQEL8Vsa03bMmE1jb2OW.welh2lUBc0wR/Q.DY1kGK1TW24NhaXu",
+    "createdAt": "2025-05-23T19:37:06.000Z"
+  },
+  {
+    "id": "de2c3c33-f4ee-46cb-b887-44ccfebc2a44",
+    "email": "reshedaakhter@gmail.com",
+    "phone": "01815175670",
+    "pwd": "$2b$10$RkQVQvPccJ3w8gy/eQYgP.8mvgH4EiNabdArRsszQPRK.A0ieltfm",
+    "createdAt": "2025-05-23T19:37:56.423Z",
+    "updatedAt": "2025-05-23T19:38:11.653Z"
+  }
+]

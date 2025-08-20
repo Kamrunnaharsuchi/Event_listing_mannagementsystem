@@ -1,0 +1,62 @@
+[
+  {
+    "id": "739f58dd-d025-439d-b499-91b2727f00f0",
+    "name": "Convocation",
+    "img": "1747811231716-648470873.jpg"
+  },
+  {
+    "id": "eece81c9-f69a-4426-93e2-f3d024179e06",
+    "name": "Seminar",
+    "img": "1747811419887-844983282.jpg"
+  },
+  {
+    "id": "cab555cb-39b8-46fa-85b2-f51109ffd189",
+    "name": "Sports",
+    "img": "1747811630911-456546066.webp"
+  },
+  {
+    "id": "d4d03177-0f2d-472c-ba0c-1d835f0ff4d8",
+    "name": "Programming Contest",
+    "img": "1747811969364-922356159.webp"
+  },
+  {
+    "id": "ae5d7b09-5f14-4a2a-ab03-7a78bdb9d83f",
+    "name": "Festival",
+    "img": "1747812304447-935345537.webp"
+  },
+  {
+    "id": "8e10cba1-79e7-4921-b4d0-7dc84dd74a78",
+    "name": "Robbo Soccer",
+    "img": "1747937066788-734883818.webp"
+  },
+  {
+    "id": "4d471aaf-6eb9-46d0-93fd-857715e79f80",
+    "name": "Industrial Visit",
+    "img": "1747936883100-951293634.webp"
+  },
+  {
+    "id": "d0cac5d8-1d92-4f3a-ab0a-4e66ea60de15",
+    "name": "Project Fair",
+    "img": "1747937828801-190078590.webp"
+  },
+  {
+    "id": "25bce5ad-f6d9-43f8-a0c8-69add1da0dea",
+    "name": "Workshop",
+    "img": "1747937999096-600623095.webp"
+  },
+  {
+    "id": "204534f4-3521-479a-b458-f3c0166e64cb",
+    "name": "National Contest",
+    "img": "1747938556803-635543242.webp"
+  },
+  {
+    "id": "fada8c53-c684-4e69-bae4-0c5634a38fce",
+    "name": "Social events",
+    "img": "1747938731463-682053005.webp"
+  },
+  {
+    "id": "23df8643-5024-4d3f-ad34-e4a269e61c7f",
+    "name": "Picnic or Study Tour",
+    "img": "1747939725766-48377957.webp"
+  }
+]
